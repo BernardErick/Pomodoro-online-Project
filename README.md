@@ -1,2 +1,8 @@
 # Pomodoro-online
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks - 5 minutes.
+
+## User Stories
+
+-   [ ] User can see a timer for 25 minutes - the **working** session
+-   [ ] After the **working** session is over, the User can see a timer for 5 minutes - the **break** session
+-   [ ] User can _start_ / _pause_, _stop_ and _reset_ the timers
